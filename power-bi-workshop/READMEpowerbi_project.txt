@@ -1,0 +1,7 @@
+
+PowerBi_pharmaceutical_dashboard
+https://app.powerbi.com/view?r=eyJrIjoiZDJmOWYxODEtOGMxZC00ZDQ0LTk0ZWUtMDc1NjhmMWFmMmUyIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
+
+
+test_publishing
+https://app.powerbi.com/view?r=eyJrIjoiY2VkMTM2ZjYtNjFiNi00NWY5LWJhNjUtM2U2MDI5NzZiNmE2IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
